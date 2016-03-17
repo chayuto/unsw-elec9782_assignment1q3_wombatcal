@@ -25,8 +25,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceLarge"
-                android:text="Large Text"
-                android:id="@+id/textView"
+                android:text="Wombat Cal"
+                android:id="@+id/textViewCalDisplay"
                 android:textAlignment="textEnd" />
         </LinearLayout>
 
